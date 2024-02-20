@@ -8,6 +8,9 @@ Here are some well-regarded newspapers for cybersecurity news🔑:
 
 ## Details
 
+### - [Security Talks Digest](https://talks.donsan.org)🛡️ :
+#### This project seeks to aggregate materials from the security conferences around the world and deliver them in form of a weekly report via Email, RSS and Twitter.
+
 ### - [Dark Reading](https://www.darkreading.com/)🛡️ :
 #### Dark Reading: Connecting The Cybersecurity CommunityLong one of the most widely read cybersecurity news sites, Dark Reading is also the most trusted online community for security professionals like you. Our community members include thought-leading security researchers, CISOs, and technology specialists, along with  thousands of other security professionals. We want you to join us.
 
